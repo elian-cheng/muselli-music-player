@@ -45,8 +45,10 @@ Simple music player, vanilla JS. Back-end - Node JS.
 ### Implemented features:
 
 - Custom audio player
+- Audio buttons
 - Dynamic content
 - Saving to favorites
+- Search
 
 ### Used technologies:
 
